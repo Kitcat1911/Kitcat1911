@@ -21,4 +21,4 @@ I am studying Business Computer and studying English.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Janyaporn"><img src="https://github-readme-stats.vercel.app/api?username=Janyaporn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Janyaporn's GitHub stats" /></a>
+<a href="http://www.github.com/Janyaporn"><img src="https://github-readme-stats.vercel.app/api?username=Janyaporn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Janyaporn's GitHub stats" /></a>
